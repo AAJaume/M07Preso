@@ -1,0 +1,10 @@
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.csprojAssemblyReference.cache
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.Form1.resources
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.Properties.Resources.resources
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.csproj.GenerateResource.cache
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.csproj.CoreCompileInputs.cache
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\bin\Debug\ControlPreso.exe.config
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\bin\Debug\ControlPreso.exe
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\bin\Debug\ControlPreso.pdb
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.exe
+c:\users\daw2\source\repos\ControlPreso\ControlPreso\obj\Debug\ControlPreso.pdb
